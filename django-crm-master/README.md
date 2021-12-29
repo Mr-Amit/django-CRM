@@ -15,4 +15,4 @@ python manage.py runserver
 
 ![](https://i.imgur.com/cugal0V.png)
 
-![](https://i.imgur.com/KUgDiAA.png)
+![](https://imgur.com/XJIDlbf.png)
