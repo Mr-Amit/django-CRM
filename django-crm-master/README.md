@@ -9,9 +9,11 @@ source venv/bin/activate
 requirements: install crispyforms, django rest framework
 
 ### Next steps
-next steps
-python manage.py migrate
-python manage.py runserver
+next steps  
+python manage.py migrate  
+python manage.py runserver  
+
+## Screenshots
 
 ![](https://i.imgur.com/cugal0V.png)
 
